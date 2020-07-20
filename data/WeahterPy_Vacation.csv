@@ -1,0 +1,69 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+5,ushuaia,AR,32.0,shower rain,-54.8,-68.3,Albatros Hotel
+8,pevek,RU,44.08,clear sky,69.7,170.31,Severnoye Zoloto
+15,xining,CN,48.83,clear sky,36.62,101.77,Super Leisure Hotel
+24,aklavik,CA,46.4,overcast clouds,68.22,-135.01,Aklavik Inn
+31,grindavik,IS,50.0,broken clouds,63.84,-22.43,Northern Light Inn & Max's Restaurant
+34,saldanha,ZA,50.0,clear sky,-33.01,17.94,Blue Bay Lodge
+37,tuktoyaktuk,CA,42.8,shower rain,69.45,-133.04,End of The Road Ltd.
+38,yulara,AU,50.0,overcast clouds,-25.24,130.99,Desert Gardens Hotel - Ayers Rock Resort
+40,mataura,NZ,39.0,clear sky,-46.19,168.86,Ellie's Villa
+44,punta arenas,CL,35.6,overcast clouds,-53.15,-70.92,Hotel Dreams Del Estrecho
+47,bluff,NZ,39.0,clear sky,-46.6,168.33,Bluff Homestead - Guesthouse & Campervan Park
+52,werda,BW,49.44,clear sky,-25.27,23.28,
+56,geraldton,AU,46.4,clear sky,-28.77,114.6,Broadwater Mariner Resort
+59,barrow,US,39.2,overcast clouds,71.29,-156.79,King Eider Inn
+66,provideniya,RU,48.22,overcast clouds,64.38,-173.3,
+68,dikson,RU,39.58,overcast clouds,73.51,80.55,
+90,husavik,IS,42.8,broken clouds,66.04,-17.34,Bjarnabúð
+95,kaitangata,NZ,37.99,clear sky,-46.28,169.85,Kaitangata Motor Camp
+128,nanortalik,GL,48.09,broken clouds,60.14,-45.24,"NTS Rooms, Nanortalik"
+129,carnarvon,AU,48.2,clear sky,-24.87,113.63,Hospitality Carnarvon
+135,te anau,NZ,42.22,clear sky,-45.42,167.72,Kingsgate Hotel Te Anau
+136,tasiilaq,GL,48.2,few clouds,65.61,-37.64,The Red House
+138,necochea,AR,46.0,overcast clouds,-38.55,-58.74,dyd -mar Hotel
+143,klaksvik,FO,48.2,broken clouds,62.23,-6.59,Airbnb rooms
+147,new norfolk,AU,46.0,broken clouds,-42.78,147.06,The Shingles Riverside Cottages
+150,saskylakh,RU,48.42,scattered clouds,71.92,114.08,
+153,tshane,BW,48.11,clear sky,-24.02,21.87,
+159,leningradskiy,RU,40.6,broken clouds,69.38,178.42,
+169,hobart,AU,50.0,broken clouds,-42.88,147.33,St Ives Apartments
+177,iqaluit,CA,48.2,overcast clouds,63.75,-68.51,Frobisher Inn
+178,tuatapere,NZ,39.0,clear sky,-46.13,167.68,Tom Cruse Refreshment Company
+187,esperance,AU,46.4,scattered clouds,-33.87,121.9,Hospitality Esperance
+189,talnakh,RU,50.0,broken clouds,69.49,88.4,Talnakh Hotel
+191,bredasdorp,ZA,50.0,clear sky,-34.53,20.04,Bredasdorp Country Manor
+193,olafsvik,IS,47.3,scattered clouds,64.89,-23.71,Hotel Olafsvik
+196,upernavik,GL,48.31,clear sky,72.79,-56.15,Gina's Guesthouse - Upernavik
+211,longyearbyen,SJ,46.4,shower rain,78.22,15.64,"Radisson Blu Polar Hotel, Spitsbergen"
+226,likasi,CD,44.58,clear sky,-10.98,26.73,TABERNACLE DE LIKASI
+233,letterkenny,IE,47.03,overcast clouds,54.95,-7.73,Mount Errigal Hotel
+234,qaanaaq,GL,48.81,overcast clouds,77.48,-69.36,Qaanaaq Hotel
+240,coihaique,CL,32.0,mist,-45.58,-72.07,Diego De Almagro Coyhaique
+246,paamiut,GL,47.35,broken clouds,61.99,-49.67,Yeet Hotel
+247,bratsk,RU,48.2,overcast clouds,56.13,101.61,Shvedka
+261,laerdalsoyri,NO,48.99,overcast clouds,61.1,7.48,Laerdal Holiday and Leisure Park
+264,calvinia,ZA,49.24,clear sky,-31.47,19.78,Die Lemoenhuis
+275,teya,RU,47.25,few clouds,60.38,92.63,
+279,clyde river,CA,42.8,broken clouds,70.47,-68.59,Qamaq Hotel
+280,stykkisholmur,IS,47.08,broken clouds,65.08,-22.73,Fosshotel Stykkishólmur
+287,tazovskiy,RU,48.65,broken clouds,67.47,78.7,TazHostel
+293,vestmannaeyjar,IS,49.24,clear sky,63.44,-20.27,Glamping & Camping
+309,leshukonskoye,RU,48.47,scattered clouds,64.9,45.76,Gostinitsa Mup Zhkkh
+324,codrington,AU,48.88,clear sky,-38.27,141.97,Codrington Gardens Bed And Breakfast
+335,waverley,ZA,48.2,clear sky,-25.7,28.26,Aves Indigo Guesthouse
+341,vilcun,CL,50.0,light intensity shower rain,-38.65,-72.23,"Rayen-Co, Rural Tourism"
+347,knysna,ZA,50.0,clear sky,-34.04,23.05,Protea Hotel by Marriott Knysna Quays
+352,chingola,ZM,46.81,scattered clouds,-12.53,27.88,Protea Hotel by Marriott Chingola
+361,toora-khem,RU,47.03,clear sky,52.47,96.11,
+378,gwembe,ZM,47.95,clear sky,-16.5,27.61,
+385,hofn,IS,50.0,few clouds,64.25,-15.21,Hótel Höfn
+387,salair,RU,49.46,clear sky,54.23,85.8,Гостевой Дом на Заречной
+394,baykit,RU,48.83,clear sky,61.67,96.37,Gostinitsa
+420,khatanga,RU,48.52,overcast clouds,71.97,102.5,"Gostinitsa ""Zapolyar'ye"""
+423,kabwe,ZM,45.75,clear sky,-14.45,28.45,Tuskers
+464,dunedin,NZ,48.99,clear sky,-45.87,170.5,Scenic Hotel Southern Cross
+474,turukhansk,RU,48.83,scattered clouds,65.82,87.98,"ООО ""Туруханская пушнина"""
+482,kolyvan,RU,48.2,clear sky,55.31,82.74,
+486,akranes,IS,50.0,broken clouds,64.32,-22.07,Akra Guesthouse
+526,alice springs,AU,44.6,clear sky,-23.7,133.88,Desert Palms Alice Springs
